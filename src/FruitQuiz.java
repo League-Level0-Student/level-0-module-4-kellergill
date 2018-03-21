@@ -37,7 +37,7 @@ System.out.println(keyCode);
 			// 3. If they selected the right fruit, do steps 4 and 7
 			if(keyCode==C);
 				// 4. Call the correct() method
-				
+				correct();
 				// 7. Use the nextQuestion() method to go to question2
 			
 			
